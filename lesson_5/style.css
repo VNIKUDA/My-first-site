@@ -1,0 +1,31 @@
+
+
+.header {
+    background-color: darkblue;
+    width: 99%;
+    height: 50px;
+    margin-bottom: 30px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.b {
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: lightsteelblue;
+    width: 30%;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

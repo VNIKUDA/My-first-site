@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(2, 137, 255, 0.752);
+    font-size: 30px;
+    color: white;
+}
+
+.block {
+    background-color: blue;
+    border: 2px solid white
+}
+
+.b1 {
+    margin-top: 20px;
+    width: 300px;
+    height: 75px;
+}
+
+.b2 {
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 140px;
+    height: 65px
+}
+
+.b3 {
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+    width: 200px;
+    height: 55px;
+    border: 10px solid white;
+}
